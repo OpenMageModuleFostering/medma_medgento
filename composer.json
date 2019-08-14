@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Medma_Medgento",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "A highly scalable and robust responsive magento theme for all business stores",
+    "authors": [
+    {
+        "name": "Medma Infomatix Pvt. Ltd.",
+        "email": "gaurav@medma.in"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
